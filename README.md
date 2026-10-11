@@ -26,6 +26,6 @@ To ensure the robot finds the optimal path, we implemented two search algorithms
 5. The final outputs will display the paths on the grids, print the total cost, show the number of expanded nodes, and generate a performance comparison table between UCS and A*.
 
 ## Team Members
-*   [Name of Student 1] - ID: [Insert ID 1]
-*   [Name of Student 2] - ID: [Insert ID 2]
-*   [Name of Student 3] - ID: [Insert ID 3]
+*   [Abdelrahman Hamdy] - ID: [2403244068]
+*   [Hana Elgaml] - ID: [2403248169]
+*   [Malak Hatem] - ID: [2403243572] 
